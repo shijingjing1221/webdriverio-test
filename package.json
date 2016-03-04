@@ -4,7 +4,8 @@
   "main": "server/app.js",
   "dependencies": {
     "webdriverio": "",
-    "firefox-profile":"0.3.11"
+    "firefox-profile":"0.3.11",
+    "fs": "0.0.2"
   },
   "devDependencies": {
   },
